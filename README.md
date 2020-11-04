@@ -19,3 +19,7 @@ __MiniFetch displays these information__
 - System Uptime
 - CPU Model
 - GPU Model
+
+___
+
+Please note that MiniFetch gets recognised as a virus by some antiviruses (Windows Defender excluded) :(
