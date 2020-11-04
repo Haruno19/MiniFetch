@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -96,51 +96,51 @@ namespace MinimalFetch
 
         void Colors()
         {
-            Console.SetCursorPosition(4, 10);
+            Console.SetCursorPosition(3, 10);
             Console.BackgroundColor = ConsoleColor.DarkYellow;
             Console.Write("  ");
 
-            Console.SetCursorPosition(8, 10);
+            Console.SetCursorPosition(7, 10);
             Console.BackgroundColor = ConsoleColor.Yellow;
             Console.Write("  ");
 
-            Console.SetCursorPosition(12, 10);
+            Console.SetCursorPosition(11, 10);
             Console.BackgroundColor = ConsoleColor.Red;
             Console.Write("  ");
 
-            Console.SetCursorPosition(16, 10);
+            Console.SetCursorPosition(15, 10);
             Console.BackgroundColor = ConsoleColor.DarkRed;
             Console.Write("  ");
 
-            Console.SetCursorPosition(20, 10);
+            Console.SetCursorPosition(19, 10);
             Console.BackgroundColor = ConsoleColor.DarkMagenta;
             Console.Write("  ");
 
-            Console.SetCursorPosition(24, 10);
+            Console.SetCursorPosition(23, 10);
             Console.BackgroundColor = ConsoleColor.Magenta;
             Console.Write("  ");
 
-            Console.SetCursorPosition(28, 10);
+            Console.SetCursorPosition(27, 10);
             Console.BackgroundColor = ConsoleColor.DarkBlue;
             Console.Write("  ");
 
-            Console.SetCursorPosition(32, 10);
+            Console.SetCursorPosition(31, 10);
             Console.BackgroundColor = ConsoleColor.Blue;
             Console.Write("  ");
 
-            Console.SetCursorPosition(36, 10);
+            Console.SetCursorPosition(35, 10);
             Console.BackgroundColor = ConsoleColor.Cyan;
             Console.Write("  ");
 
-            Console.SetCursorPosition(40, 10);
+            Console.SetCursorPosition(39, 10);
             Console.BackgroundColor = ConsoleColor.DarkCyan;
             Console.Write("  ");
 
-            Console.SetCursorPosition(44, 10);
+            Console.SetCursorPosition(43, 10);
             Console.BackgroundColor = ConsoleColor.DarkGreen;
             Console.Write("  ");
 
-            Console.SetCursorPosition(48, 10);
+            Console.SetCursorPosition(47, 10);
             Console.BackgroundColor = ConsoleColor.Green;
             Console.Write("  ");
         }
