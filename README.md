@@ -1,6 +1,6 @@
 # MiniFetch
 _Version 1.0  - 04.11.2020_\
-_MiniFetch is a minimal system info for Windows writte in C#_
+_MiniFetch is a minimal system info for Windows written in C#_
 
 MiniFetch displays some info about your system, like Neofetch or Screenfetch, but it works on Windows!\
 You can run it with PowerShell or CMD by just typing "minifetch"! \
