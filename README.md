@@ -7,4 +7,4 @@ In order to make it work you also have to place minifetch.exe in a place CMD and
 
 Here's a quick look at the result:
 
-![alt text](http://url/to/img.png)
+![alt text](https://imgur.com/gallery/K8pFoUZ)
