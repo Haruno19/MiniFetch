@@ -1,3 +1,5 @@
+###### Archived on 10/2023 since it's an old repository with old code, not maintained anymore and most likely not very optimized or well designed to begin with
+
 # MiniFetch
 _Version 1.1  - 14.11.2020_\
 _MiniFetch is a minimal system info for Windows written in C#_
